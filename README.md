@@ -24,3 +24,4 @@ https://api.eia.gov/
 ## Notes
 
 Data is retrieved via API and not stored in this repository due to size restrictions.
+Run Notebook 01 to fetch and generate datasets locally.
