@@ -5,8 +5,8 @@
 
 ## Project Structure
 
-- Notebook 01: Data ingestion and validation
-- Notebook 02: Exploratory Data Analysis (EDA)
+- 01_ingestion_validation.ipynb: Data ingestion and validation
+- 02_eda.ipynb: Exploratory Data Analysis (EDA)
 - 03_statistical_forecasting.ipynb: Baseline models, SARIMA modeling, and comparison with EIA forecasts  
 - 04_ml_forecasting.ipynb (in progress): Machine learning models using lag and rolling features
 
